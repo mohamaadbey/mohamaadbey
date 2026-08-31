@@ -1,4 +1,4 @@
-# Hi, I'm Seyed Mohammad Hosseini 👋
+# Hi, I'm Mohammad Hosseini 👋
 
 ### Frontend Engineer · Software Developer · Product Builder
 
