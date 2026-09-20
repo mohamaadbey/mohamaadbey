@@ -4,6 +4,10 @@ Computer Science graduate and Frontend Engineer focused on **React, TypeScript, 
 
 ---
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
 ### Anbarchi — AI Inventory Manager
 
 An inventory management platform designed to help cafés and businesses track stock, analyze sales data, and detect low-stock items automatically.
@@ -16,11 +20,19 @@ An inventory management platform designed to help cafés and businesses track st
 * Maintaining frontend/backend contracts with **OpenAPI**.
 * Structuring the codebase as a **pnpm monorepo**.
 
-**Tech Stack:** React · TypeScript · Vite · Tailwind CSS · shadcn/ui · Express · PostgreSQL · Drizzle ORM · Docker
+**Tech Stack**
 
-[**Live Demo**](#)
+React · TypeScript · Vite · Tailwind CSS · shadcn/ui · Express · PostgreSQL · Drizzle ORM · Docker
 
----
+<br>
+
+<a href="#">
+  <img src="https://img.shields.io/badge/Live%20Demo-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo">
+</a>
+
+</td>
+
+<td width="50%" valign="top">
 
 ### Learning Management System
 
@@ -34,11 +46,21 @@ A learning management platform built to manage courses, users, educational conte
 * Implementing real-time features with **Socket.IO**.
 * Designing the system around a **RESTful API architecture**.
 
-**Tech Stack:** React · TypeScript · Express · PostgreSQL · Tailwind CSS · JWT · Socket.IO
+**Tech Stack**
 
-[**Live Demo**](#)
+React · TypeScript · Express · PostgreSQL · Tailwind CSS · JWT · Socket.IO
 
----
+<br>
+
+<a href="#">
+  <img src="https://img.shields.io/badge/Live%20Demo-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo">
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
 
 ### Pakmart — E-commerce Platform
 
@@ -52,11 +74,19 @@ A modern Persian e-commerce platform for cosmetics, personal care, and hygiene p
 * Building an admin dashboard for product and inventory management.
 * Designing the system to support payments, orders, inventory, and notifications.
 
-**Tech Stack:** React · TypeScript · Vite · Tailwind CSS · PostgreSQL · REST API · Docker
+**Tech Stack**
 
-[**Live Demo**](#)
+React · TypeScript · Vite · Tailwind CSS · PostgreSQL · REST API · Docker
 
----
+<br>
+
+<a href="#">
+  <img src="https://img.shields.io/badge/Live%20Demo-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo">
+</a>
+
+</td>
+
+<td width="50%" valign="top">
 
 ### Kavich — Digital Menu
 
@@ -69,11 +99,21 @@ A responsive single-page digital menu designed for a restaurant, focused on fast
 * Creating a responsive layout across different screen sizes.
 * Structuring menu categories and items for easy maintenance.
 
-**Tech Stack:** HTML · CSS · JavaScript
+**Tech Stack**
 
-[**Live Demo**](#)
+HTML · CSS · JavaScript
 
----
+<br>
+
+<a href="#">
+  <img src="https://img.shields.io/badge/Live%20Demo-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo">
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
 
 ### Personal Portfolio
 
@@ -87,9 +127,23 @@ A personal portfolio website designed to showcase my projects, technical experie
 * Optimizing page structure and metadata for SEO.
 * Preparing the application for production deployment.
 
-**Tech Stack:** Next.js · React · TypeScript · Tailwind CSS
+**Tech Stack**
 
-[**Live Portfolio**](#)
+Next.js · React · TypeScript · Tailwind CSS
+
+<br>
+
+<a href="#">
+  <img src="https://img.shields.io/badge/Live%20Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Portfolio">
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+</td>
+</tr>
+</table>
 
 ---
 
