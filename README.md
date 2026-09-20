@@ -3,14 +3,15 @@
 Computer Science graduate and Frontend Engineer focused on **React, TypeScript, and modern web applications**. I build practical, scalable products that turn real business problems into simple digital experiences. I care about clean interfaces, thoughtful architecture, and software that is genuinely useful.
 
 ---
+## Tech Stack
+
+![Tech Stack](https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,postgres,docker,git,github,mongodb)
+
+---
 
 <table>
 <tr>
-<td width="50%" valign="top">
-
-<table>
-<tr>
-<td>
+<td bgcolor="#f6f8fa">
 
 ### Anbarchi — AI Inventory Manager
 
@@ -38,13 +39,11 @@ React · TypeScript · Vite · Tailwind CSS · shadcn/ui · Express · PostgreSQ
 </tr>
 </table>
 
-</td>
-
-<td width="50%" valign="top">
+<br>
 
 <table>
 <tr>
-<td>
+<td bgcolor="#ffffff">
 
 ### Learning Management System
 
@@ -72,19 +71,11 @@ React · TypeScript · Express · PostgreSQL · Tailwind CSS · JWT · Socket.IO
 </tr>
 </table>
 
-</td>
-</tr>
-</table>
-
 <br>
 
 <table>
 <tr>
-<td width="50%" valign="top">
-
-<table>
-<tr>
-<td>
+<td bgcolor="#f6f8fa">
 
 ### Pakmart — E-commerce Platform
 
@@ -112,13 +103,11 @@ React · TypeScript · Vite · Tailwind CSS · PostgreSQL · REST API · Docker
 </tr>
 </table>
 
-</td>
-
-<td width="50%" valign="top">
+<br>
 
 <table>
 <tr>
-<td>
+<td bgcolor="#ffffff">
 
 ### Kavich — Digital Menu
 
@@ -145,19 +134,11 @@ HTML · CSS · JavaScript
 </tr>
 </table>
 
-</td>
-</tr>
-</table>
-
 <br>
 
 <table>
 <tr>
-<td width="50%" valign="top">
-
-<table>
-<tr>
-<td>
+<td bgcolor="#f6f8fa">
 
 ### Personal Portfolio
 
@@ -184,19 +165,6 @@ Next.js · React · TypeScript · Tailwind CSS
 </td>
 </tr>
 </table>
-
-</td>
-
-<td width="50%" valign="top">
-</td>
-</tr>
-</table>
-
----
-
-## Tech Stack
-
-![Tech Stack](https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,postgres,docker,git,github,mongodb)
 
 ---
 
