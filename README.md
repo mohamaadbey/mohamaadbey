@@ -1,1 +1,106 @@
-Yay
+# Hi, I'm Mohammad Hosseini
+
+Computer Science graduate and Frontend Engineer focused on **React, TypeScript, and modern web applications**. I build practical, scalable products that turn real business problems into simple digital experiences. I care about clean interfaces, thoughtful architecture, and software that is genuinely useful.
+
+---
+
+### Anbarchi — AI Inventory Manager
+
+An inventory management platform designed to help cafés and businesses track stock, analyze sales data, and detect low-stock items automatically.
+
+**Technical Challenges**
+
+* Designing a **multi-tenant architecture** for multiple cafés and inventories.
+* Converting sales data into ingredient consumption and stock changes.
+* Automating **low-stock detection** based on consumption patterns.
+* Maintaining frontend/backend contracts with **OpenAPI**.
+* Structuring the codebase as a **pnpm monorepo**.
+
+**Tech Stack:** React · TypeScript · Vite · Tailwind CSS · shadcn/ui · Express · PostgreSQL · Drizzle ORM · Docker
+
+[**Live Demo**](#)
+
+---
+
+### Learning Management System
+
+A learning management platform built to manage courses, users, educational content, and the overall learning process.
+
+**Technical Challenges**
+
+* Designing a scalable relational data model for users, courses, enrollment, and assessments.
+* Implementing **role-based access control** for different user types.
+* Building authentication and authorization with **JWT**.
+* Implementing real-time features with **Socket.IO**.
+* Designing the system around a **RESTful API architecture**.
+
+**Tech Stack:** React · TypeScript · Express · PostgreSQL · Tailwind CSS · JWT · Socket.IO
+
+[**Live Demo**](#)
+
+---
+
+### Pakmart — E-commerce Platform
+
+A modern Persian e-commerce platform for cosmetics, personal care, and hygiene products, built with a focus on a clean shopping experience and scalable architecture.
+
+**Technical Challenges**
+
+* Designing the architecture for a growing product catalog and user base.
+* Building complex shopping flows including **cart, wishlist, checkout, and authentication**.
+* Developing a fully responsive **RTL** shopping experience.
+* Building an admin dashboard for product and inventory management.
+* Designing the system to support payments, orders, inventory, and notifications.
+
+**Tech Stack:** React · TypeScript · Vite · Tailwind CSS · PostgreSQL · REST API · Docker
+
+[**Live Demo**](#)
+
+---
+
+### Kavich — Digital Menu
+
+A responsive single-page digital menu designed for a restaurant, focused on fast navigation, clear product presentation, and a mobile-first experience.
+
+**Technical Challenges**
+
+* Designing a **mobile-first** interface for restaurant customers.
+* Building a lightweight experience optimized for quick access.
+* Creating a responsive layout across different screen sizes.
+* Structuring menu categories and items for easy maintenance.
+
+**Tech Stack:** HTML · CSS · JavaScript
+
+[**Live Demo**](#)
+
+---
+
+### Personal Portfolio
+
+A personal portfolio website designed to showcase my projects, technical experience, education, and background as a software developer.
+
+**Technical Challenges**
+
+* Designing a personal visual identity and project-focused presentation.
+* Building a responsive and accessible interface.
+* Implementing **Persian/English localization** and RTL support.
+* Optimizing page structure and metadata for SEO.
+* Preparing the application for production deployment.
+
+**Tech Stack:** Next.js · React · TypeScript · Tailwind CSS
+
+[**Live Portfolio**](#)
+
+---
+
+## Tech Stack
+
+![Tech Stack](https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,postgres,docker,git,github,mongodb)
+
+---
+
+## Get in Touch
+
+Have a project in mind or want to connect? **Let's talk.**
+
+[Telegram](#) · [Instagram](#) · [LinkedIn](#) · [Email](#)
