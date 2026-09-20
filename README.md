@@ -1,6 +1,6 @@
 # Hi, I'm Mohammad Hosseini
 
-Computer Science graduate and Frontend Engineer focused on **React, TypeScript, and modern web applications**. I build practical, scalable products that turn real business problems into simple digital experiences. I care about clean interfaces, thoughtful architecture, and software that is genuinely useful.
+A Computer Science graduate from Golestan University and Software Developer focused on building modern web applications with React and TypeScript. I enjoy turning ideas and business problems into practical, maintainable software products, from e-commerce platforms and management systems to AI-powered applications. I care about clean interfaces, thoughtful architecture, and building products that are genuinely useful.
 
 ---
 ## Tech Stack
@@ -13,7 +13,7 @@ Computer Science graduate and Frontend Engineer focused on **React, TypeScript, 
 <tr>
 <td bgcolor="#f6f8fa">
 
-### Anbarchi — AI Inventory Manager
+### 📦 Anbarchi — AI Inventory Manager
 
 An inventory management platform designed to help cafés and businesses track stock, analyze sales data, and detect low-stock items automatically.
 
@@ -45,7 +45,7 @@ React · TypeScript · Vite · Tailwind CSS · shadcn/ui · Express · PostgreSQ
 <tr>
 <td bgcolor="#ffffff">
 
-### Learning Management System
+### 🎓 Learning Management System
 
 A learning management platform built to manage courses, users, educational content, and the overall learning process.
 
@@ -77,7 +77,7 @@ React · TypeScript · Express · PostgreSQL · Tailwind CSS · JWT · Socket.IO
 <tr>
 <td bgcolor="#f6f8fa">
 
-### Pakmart — E-commerce Platform
+### 🛍️ Pakmart — E-commerce Platform
 
 A modern Persian e-commerce platform for cosmetics, personal care, and hygiene products, built with a focus on a clean shopping experience and scalable architecture.
 
@@ -140,7 +140,7 @@ HTML · CSS · JavaScript
 <tr>
 <td bgcolor="#f6f8fa">
 
-### Personal Portfolio
+### ✦ Personal Portfolio
 
 A personal portfolio website designed to showcase my projects, technical experience, education, and background as a software developer.
 
@@ -170,6 +170,6 @@ Next.js · React · TypeScript · Tailwind CSS
 
 ## Get in Touch
 
-Have a project in mind or want to connect? **Let's talk.**
+Have a **project** in mind or want to **connect**? Feel free to reach out.
 
 [Telegram](#) · [Instagram](#) · [LinkedIn](#) · [Email](#)
