@@ -11,7 +11,7 @@ A Computer Science graduate from Golestan University and Software Developer focu
 
 <table>
 <tr>
-<td bgcolor="#f6f8fa">
+<td bgcolor="#292929">
 
 ### 📦 Anbarchi — AI Inventory Manager
 
