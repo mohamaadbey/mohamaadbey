@@ -47,7 +47,7 @@ React · TypeScript · Vite · Tailwind CSS · shadcn/ui · Express · PostgreSQ
 
 ### 🎓 Learning Management System
 
-A learning management platform built to manage courses, users, educational content, and the overall learning process.
+A learning management platform built to manage courses, users, educational content, and the overall learning process.learning processlearning processlearning process
 
 **Technical Challenges**
 
