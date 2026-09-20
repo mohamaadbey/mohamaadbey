@@ -8,6 +8,10 @@ Computer Science graduate and Frontend Engineer focused on **React, TypeScript, 
 <tr>
 <td width="50%" valign="top">
 
+<table>
+<tr>
+<td>
+
 ### Anbarchi — AI Inventory Manager
 
 An inventory management platform designed to help cafés and businesses track stock, analyze sales data, and detect low-stock items automatically.
@@ -31,8 +35,16 @@ React · TypeScript · Vite · Tailwind CSS · shadcn/ui · Express · PostgreSQ
 </a>
 
 </td>
+</tr>
+</table>
+
+</td>
 
 <td width="50%" valign="top">
+
+<table>
+<tr>
+<td>
 
 ### Learning Management System
 
@@ -58,9 +70,21 @@ React · TypeScript · Express · PostgreSQL · Tailwind CSS · JWT · Socket.IO
 
 </td>
 </tr>
+</table>
 
+</td>
+</tr>
+</table>
+
+<br>
+
+<table>
 <tr>
 <td width="50%" valign="top">
+
+<table>
+<tr>
+<td>
 
 ### Pakmart — E-commerce Platform
 
@@ -85,8 +109,16 @@ React · TypeScript · Vite · Tailwind CSS · PostgreSQL · REST API · Docker
 </a>
 
 </td>
+</tr>
+</table>
+
+</td>
 
 <td width="50%" valign="top">
+
+<table>
+<tr>
+<td>
 
 ### Kavich — Digital Menu
 
@@ -111,9 +143,21 @@ HTML · CSS · JavaScript
 
 </td>
 </tr>
+</table>
 
+</td>
+</tr>
+</table>
+
+<br>
+
+<table>
 <tr>
 <td width="50%" valign="top">
+
+<table>
+<tr>
+<td>
 
 ### Personal Portfolio
 
@@ -138,9 +182,12 @@ Next.js · React · TypeScript · Tailwind CSS
 </a>
 
 </td>
+</tr>
+</table>
+
+</td>
 
 <td width="50%" valign="top">
-
 </td>
 </tr>
 </table>
