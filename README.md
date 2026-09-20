@@ -111,7 +111,7 @@ React · TypeScript · Vite · Tailwind CSS · PostgreSQL · REST API · Docker
 <tr>
 <td bgcolor="#ffffff">
 
-### Kavich — Digital Menu
+### Kavich Café — Digital Menu
 
 A responsive single-page digital menu designed for a restaurant, focused on fast navigation, clear product presentation, and a mobile-first experience.
 
