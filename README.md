@@ -65,7 +65,7 @@ React · TypeScript · Express · PostgreSQL · Tailwind CSS · JWT · Socket.IO
 
 <br>
 
-<a href="#">
+<a href="https://github.com/mohamaadbey/lms.git">
   <img src="https://img.shields.io/badge/Live%20Demo-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo">
 </a>
 
@@ -128,7 +128,7 @@ HTML · CSS · JavaScript
 
 <br>
 
-<a href="#">
+<a href="https://kavich1.ir">
   <img src="https://img.shields.io/badge/Live%20Demo-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo">
 </a>
 
