@@ -171,7 +171,7 @@ Next.js · React · TypeScript · Tailwind CSS
 ---
 
 <details>
-<summary><b>🎓 Certificates</b></summary>
+## Certificates
 
 <br>
 
@@ -185,11 +185,11 @@ Next.js · React · TypeScript · Tailwind CSS
         width="100%"
       >
       <br><br>
-      <strong>Course Name</strong>
+      <strong>Algorithm and flowcharts</strong>
       <br>
-      Score: <strong>95/100</strong>
+      Score: <strong>Fair</strong>
       <br>
-      <sub>Platform Name · 2026</sub>
+      <sub>Quera.org · 2022</sub>
     </td>
   </tr>
 </table>
