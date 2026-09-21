@@ -171,7 +171,7 @@ Next.js · React · TypeScript · Tailwind CSS
 ---
 
 ## Certificates
-
+<details>
 <br>
 
 <table>
@@ -192,7 +192,7 @@ Next.js · React · TypeScript · Tailwind CSS
     </td>
   </tr>
 </table>
-
+</details>
 ---
 
 ## Get in Touch
