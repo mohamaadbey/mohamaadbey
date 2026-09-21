@@ -193,7 +193,6 @@ Next.js · React · TypeScript · Tailwind CSS
   </tr>
 </table>
 </details>
----
 
 ## Get in Touch
 
