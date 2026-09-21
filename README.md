@@ -170,6 +170,34 @@ Next.js · React · TypeScript · Tailwind CSS
 
 ---
 
+<details>
+<summary><b>🎓 Certificates</b></summary>
+
+<br>
+
+<table>
+  <tr>
+    <!-- Certificate 1 -->
+    <td align="center" width="50%">
+      <img
+        src="./assets/certificates/certificate-1.jpg"
+        alt="Course Certificate"
+        width="100%"
+      >
+      <br><br>
+      <strong>Course Name</strong>
+      <br>
+      Score: <strong>95/100</strong>
+      <br>
+      <sub>Platform Name · 2026</sub>
+    </td>
+  </tr>
+</table>
+
+</details>
+
+---
+
 ## Get in Touch
 
 Have a **project** in mind or want to **connect**? Feel free to reach out.
