@@ -181,14 +181,14 @@ Next.js · React · TypeScript · Tailwind CSS
       <img
         src="./assets/certificates/algorithmic thinking.jpg"
         alt="Course Certificate"
-        width="500"
+        width="400"
       >
       <br><br>
-      <strong>Algorithm and flowcharts</strong>
+      <strong>Fundamentals Of Python Programming And Algorithm Thinking</strong>
       <br>
-      Score: <strong>Fair</strong>
+      Score: <strong>Good</strong>
       <br>
-      <sub>Quera.org · 2022</sub>
+      <sub>Quera.org · 2022 July</sub>
     </td>
   </tr>
 </table>
