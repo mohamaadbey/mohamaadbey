@@ -179,7 +179,7 @@ Next.js · React · TypeScript · Tailwind CSS
     <!-- Certificate 1 -->
     <td align="center" width="50%">
       <img
-        src="./assets/certificates/certificate-1.jpg"
+        src="./assets/certificates/algorithmic thinking.jpg"
         alt="Course Certificate"
         width="100%"
       >
