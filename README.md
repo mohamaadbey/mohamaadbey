@@ -181,7 +181,7 @@ Next.js · React · TypeScript · Tailwind CSS
       <img
         src="./assets/certificates/algorithmic thinking.jpg"
         alt="Course Certificate"
-        width="100%"
+        width="500"
       >
       <br><br>
       <strong>Algorithm and flowcharts</strong>
