@@ -5,7 +5,7 @@ A Computer Science graduate from Golestan University and Software Developer focu
 ---
 ## Tech Stack
 
-![Tech Stack](https://skillicons.dev/icons?i=html,css,tailwind,javascript,typescript,react,nextjs,postgres,ubuntu,docker,git,github,mongodb)
+![Tech Stack](https://skillicons.dev/icons?i=html,css,tailwind,javascript,typescript,react,nextjs,postgres,linux,docker,git,github,mongodb)
 
 ---
 ## Projects
