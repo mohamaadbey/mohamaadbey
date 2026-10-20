@@ -174,7 +174,7 @@ Next.js · React · TypeScript · Tailwind CSS
 
 <table>
   <tr>
-    <td align="center" width="50%">
+    <td align="center" width="40%">
       <img src="./assets/certificates/algorithmic thinking.jpg" width="400" alt="Fundamentals of Python Programming and Algorithm Thinking">
       <br>
       <strong>Fundamentals of Python Programming and Algorithm Thinking</strong>
@@ -183,7 +183,7 @@ Next.js · React · TypeScript · Tailwind CSS
       <br>
       Quera.org · July 2024
     </td>
-    <td align="center" width="50%">
+    <td align="center" width="40%">
       <img src="./assets/certificates/Advanced Algorithmic Thinking and Data Structure.jpg" width="400" alt="Advanced Algorithmic Thinking and Data Structure">
       <br>
       <strong>Advanced Algorithmic Thinking and Data Structure</strong>
