@@ -190,6 +190,20 @@ Next.js · React · TypeScript · Tailwind CSS
       <br>
       <sub>Quera.org · 2022 July</sub>
     </td>
+    <td align="center" width="50%">
+      <img
+        src="./assets/certificates/Advanced Algorithmic Thinking and Data Structure.jpg"
+        alt="Course Certificate"
+        width="400"
+      >
+      <br><br>
+      <strong>Advanced Algorithmic Thinking and Data Structure</strong>
+      <br>
+      Score: <strong>Good</strong>
+      <br>
+      <sub>Quera.org · 2026 Oct</sub>
+    </td>
+    
   </tr>
 </table>
 </details>
