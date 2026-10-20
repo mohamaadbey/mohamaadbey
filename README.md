@@ -193,7 +193,6 @@ Next.js · React · TypeScript · Tailwind CSS
       Quera.org · October 2026
       <br>
       <br>
-      <br>
     </td>
   </tr>
 </table>
