@@ -171,7 +171,7 @@ Next.js · React · TypeScript · Tailwind CSS
 ---
 
 ## Certificates
-<details>
+
 <br>
 
 <table>
@@ -182,6 +182,7 @@ Next.js · React · TypeScript · Tailwind CSS
         src="./assets/certificates/algorithmic thinking.jpg"
         alt="Course Certificate"
         width="400"
+        align="center"
       >
       <br><br>
       <strong>Fundamentals Of Python Programming And Algorithm Thinking</strong>
@@ -195,6 +196,7 @@ Next.js · React · TypeScript · Tailwind CSS
         src="./assets/certificates/Advanced Algorithmic Thinking and Data Structure.jpg"
         alt="Course Certificate"
         width="400"
+        align="center"
       >
       <br><br>
       <strong>Advanced Algorithmic Thinking and Data Structure</strong>
@@ -206,7 +208,7 @@ Next.js · React · TypeScript · Tailwind CSS
     
   </tr>
 </table>
-</details>
+
 
 ## Get in Touch
 
