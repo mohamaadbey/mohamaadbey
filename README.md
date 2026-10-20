@@ -191,6 +191,7 @@ Next.js · React · TypeScript · Tailwind CSS
       Score: <strong>Good</strong>
       <br>
       Quera.org · October 2026
+      <br>
     </td>
   </tr>
 </table>
