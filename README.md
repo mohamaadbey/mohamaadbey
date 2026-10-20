@@ -172,40 +172,26 @@ Next.js · React · TypeScript · Tailwind CSS
 
 ## Certificates
 
-<br>
-
 <table>
   <tr>
-    <!-- Certificate 1 -->
     <td align="center" width="50%">
-      <img
-        src="./assets/certificates/algorithmic thinking.jpg"
-        alt="Course Certificate"
-        width="400"
-        align="center"
-      >
-      <br><br>
-      <strong>Fundamentals Of Python Programming And Algorithm Thinking</strong>
+      <img src="آدرس-عکس-اول" width="100%" alt="Fundamentals of Python Programming and Algorithm Thinking">
+      <br>
+      <strong>Fundamentals of Python Programming and Algorithm Thinking</strong>
       <br>
       Score: <strong>Good</strong>
       <br>
-      <sub>Quera.org · 2022 July</sub>
+      Quera.org · July 2022
     </td>
     <td align="center" width="50%">
-      <img
-        src="./assets/certificates/Advanced Algorithmic Thinking and Data Structure.jpg"
-        alt="Course Certificate"
-        width="400"
-        align="center"
-      >
-      <br><br>
+      <img src="آدرس-عکس-دوم" width="100%" alt="Advanced Algorithmic Thinking and Data Structure">
+      <br>
       <strong>Advanced Algorithmic Thinking and Data Structure</strong>
       <br>
       Score: <strong>Good</strong>
       <br>
-      <sub>Quera.org · 2026 Oct</sub>
+      Quera.org · October 2026
     </td>
-    
   </tr>
 </table>
 
